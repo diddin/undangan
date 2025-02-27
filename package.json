@@ -5,7 +5,8 @@
         "globals": "^15.14.0",
         "htmlhint": "^1.1.4",
         "stylelint": "^16.6.1",
-        "stylelint-config-recommended": "^14.0.0"
+        "stylelint-config-recommended": "^14.0.0",
+        "eslint-config-custom": "workspace:*"
     },
     "scripts": {
         "lint:js": "eslint js",
